@@ -16,7 +16,11 @@ namespace WindowsFormsApp1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+<<<<<<< HEAD
+            Application.Run(new teach("str"));
+=======
+            Application.Run(new loginForm());
+>>>>>>> c693bff71d094b5f42742207e75c65fe821fabd4
         }
     }
 }

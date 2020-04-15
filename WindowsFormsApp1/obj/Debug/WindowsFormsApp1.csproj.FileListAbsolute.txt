@@ -7,6 +7,7 @@ D:\A стафф\C#\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Propertie
 D:\A стафф\C#\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
 D:\A стафф\C#\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\A стафф\C#\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+<<<<<<< HEAD
 C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
 C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
@@ -19,3 +20,28 @@ C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.st
 C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
 C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+=======
+<<<<<<< HEAD
+C:\Users\User\Desktop\проект\schools\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\проект\schools\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\проект\schools\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\проект\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\проект\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Desktop\проект\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\проект\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.teach.resources
+C:\Users\User\Desktop\проект\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\проект\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\проект\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\проект\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+=======
+D:\A стафф\C#\schools\schools\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\A стафф\C#\schools\schools\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\A стафф\C#\schools\schools\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\A стафф\C#\schools\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\A стафф\C#\schools\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.loginForm.resources
+D:\A стафф\C#\schools\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\A стафф\C#\schools\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\A стафф\C#\schools\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\A стафф\C#\schools\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+>>>>>>> c693bff71d094b5f42742207e75c65fe821fabd4
+>>>>>>> 70d919c8a2a04d2088054c252c9df2485840c27a

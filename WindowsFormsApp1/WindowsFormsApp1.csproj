@@ -46,11 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="loginForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="loginForm.Designer.cs">
+      <DependentUpon>loginForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_diary.cs">
       <SubType>Form</SubType>
@@ -66,14 +66,27 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <Compile Include="studentForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="studentForm.Designer.cs">
       <DependentUpon>studentForm.cs</DependentUpon>
+=======
+<<<<<<< HEAD
+    <Compile Include="teach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teach.Designer.cs">
+      <DependentUpon>teach.cs</DependentUpon>
+>>>>>>> 70d919c8a2a04d2088054c252c9df2485840c27a
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="loginForm.resx">
+      <DependentUpon>loginForm.cs</DependentUpon>
+>>>>>>> c693bff71d094b5f42742207e75c65fe821fabd4
     </EmbeddedResource>
     <EmbeddedResource Include="Form_diary.resx">
       <DependentUpon>Form_diary.cs</DependentUpon>
@@ -90,8 +103,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <EmbeddedResource Include="studentForm.resx">
       <DependentUpon>studentForm.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="teach.resx">
+      <DependentUpon>teach.cs</DependentUpon>
+>>>>>>> 70d919c8a2a04d2088054c252c9df2485840c27a
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
