@@ -67,12 +67,12 @@ namespace WindowsFormsApp1
                 this.Hide();
 
             }
-            else
-            {
-                studentForm sf = new studentForm(login);
-                sf.ShowDialog();
-                this.Hide();
-            }
+           // else
+         //   {
+               // studentForm sf = new studentForm(login);
+                //sf.ShowDialog();
+                //this.Hide();
+          //  }
 
         }
     }
