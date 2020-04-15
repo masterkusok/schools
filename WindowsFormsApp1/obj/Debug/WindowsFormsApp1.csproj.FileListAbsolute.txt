@@ -7,3 +7,15 @@ D:\A стафф\C#\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Propertie
 D:\A стафф\C#\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
 D:\A стафф\C#\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\A стафф\C#\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_diary.resources
+C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_profile.resources
+C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.studentForm.resources
+C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Documents\schools\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
